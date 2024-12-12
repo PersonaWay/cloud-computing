@@ -1,0 +1,6 @@
+Flask
+mysql-connector-python
+google-cloud-storage
+tensorflow
+numpy
+h5py
